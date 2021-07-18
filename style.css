@@ -1,0 +1,71 @@
+img
+{
+    width:150%
+}
+h1
+{
+    color: maroon;
+    font-size:130%;
+    font-weight:normal;
+    font-style: italic;
+    font-family: fantasy;
+}
+    p
+        {
+            color: blue;
+        }
+        img
+        {
+            width:20%;
+        }
+        body
+        {
+            background-color:navajowhite ;
+        }
+        h1
+        {
+            color: royalblue;
+        }
+        h2
+        {
+            color: rgb(200, 0, 200);opacity: 1;
+        }
+        p
+        {
+            text-indent: 2%;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        #nom
+        {
+            text-transform: uppercase;
+            text-decoration: underline;
+            color: rgb(200, 0, 0);
+        }
+        h3
+        {
+            text-shadow: 5px 5px 10px red;
+        }
+        h1
+        {
+            height: 50px;
+            width: 50%;
+            border:solid gray 2px ;
+            text-align: center;
+            background-color:red;
+            border-radius: 10px;
+            padding: 1%;
+            margin: 2%;
+            margin-top: 2%;
+            box-shadow: 5px 5px 10px red;;
+
+
+        }
+        h2
+        {
+             height: 50%;
+            width: 50%;
+            border-left: solid gay 2px;
+            border-right: solid gray 2px;
+            text-align: center;
+        }
